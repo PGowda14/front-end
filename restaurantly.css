@@ -1,0 +1,248 @@
+.go{
+    text-decoration: none;
+    display: flex;
+    color: rgba(248, 245, 244, 0.989);
+    list-style-type: none;
+    margin-left: 10px;
+    background-color: rgba(8, 8, 8, 0.388);
+    font-family: 'Times New Roman', Times, serif;
+    position: fixed;
+    top: 50px;
+    
+}
+li:hover{
+    color: yellow;
+}
+li{
+    margin: 25px;
+}
+body{
+    background-image: url(https://beanalaponia.com/wp-content/uploads/2016/09/Beana_Laponia_Ravintola_2-700x467.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.aa{
+    color: rgb(234, 175, 24);
+    margin-top: 20px;
+}
+.a{
+    font-size: 30px;
+    color: burlywood;
+}
+.b{
+    border: 2px solid chocolate;
+    margin: 30px;
+    border-top-left-radius:20px ;
+    border-top-right-radius:20px ;
+    border-bottom-left-radius:20px ;
+    border-bottom-right-radius:20px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.b:hover{
+    background-color: yellow;
+    color: red;
+}
+.bb{
+    font-size: 50px;
+    display: inline;
+    color: white;
+    margin-left: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 10px 15px 5px black;
+}
+.cc{
+    color: rgb(249, 117, 10);
+    font-size: 50px;
+    display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-shadow: 10px 15px 5px black;
+}
+.dd{
+    color: white;
+    margin-left: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ff{
+    display: flex;
+}
+.ee{
+    border: 2px solid chocolate;
+    border-top-left-radius:20px ;
+    border-top-right-radius:20px ;
+    border-bottom-left-radius:20px ;
+    border-bottom-right-radius:20px ;
+    color: white;
+    margin: 10px;
+    margin-left: 100px;
+    padding: 7px;
+}
+.ee:hover{
+    background-color: chocolate;
+}
+.gg{
+    border: 2px solid chocolate;
+    border-top-left-radius:20px ;
+    border-top-right-radius:20px ;
+    border-bottom-left-radius:20px ;
+    border-bottom-right-radius:20px ;
+    color: white;
+    margin-left: 10px;
+    margin: 10px;
+    padding: 7px;
+}
+.gg:hover{
+    background-color: chocolate;
+}
+.hh{
+    float: right;
+    transition: ease-out 1s ;
+    margin-right: 200px;
+    margin-top: -10px;
+}
+#bv{
+    background-color: rgba(0, 0, 0, 0.970);
+
+}
+.vb{
+    margin: 50px;
+    width: 1380px;
+}
+.ii{
+    border-radius: 50%;
+}
+.ii:hover{
+    height: 90px;
+    width: 90px;
+}
+#b{
+    display: flex;
+    background-image: url(https://s3-media2.fl.yelpcdn.com/bphoto/n_yPSrt4EBSJr3oyVONeSw/o.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+
+}
+.z{
+    margin-top: 50px;
+    padding: 100px;
+    color: rgb(151, 187, 53);
+}
+.y{
+    margin: 100px;
+}
+.x:hover{
+    height: 550px;
+    width: 550px;
+    transition: ease-out 4s;
+}
+#c{
+    background-color: rgb(0, 0, 0);
+}
+#d{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.w{
+    color: rgb(236, 109, 18);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 50px;
+    font-style: italic;
+}
+.r{
+    color: white;
+    display: inline;
+    margin-left: 50px;
+}
+.s,.u,.v{
+    color: white;
+    margin: 20px;
+    margin-top: -30px;
+    background-color: rgba(246, 240, 240, 0.168);
+    padding: 20px;
+}
+.s:hover{
+    background-color: rgba(223, 133, 68, 0.585);
+    transition: ease-out 4s;
+
+}
+.u:hover{
+    background-color: rgba(223, 133, 68, 0.585);
+    transition: ease-out 4s;
+}
+.v:hover{
+    background-color: rgba(223, 133, 68, 0.585);
+    transition: ease-out 4s;
+}
+#e{
+    background-color: rgba(0, 0, 0, 0.905);
+}
+
+
+.pr{
+    border: rgba(198, 194, 194, 0.347)  solid 5px;
+    border-radius: 50%;
+}
+.nn{
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-style: italic;
+}
+#f{
+    display: flex;
+    margin: 30px;
+    margin-left: 100px;
+}
+#g{
+    display: flex;
+}
+#h{
+    display: flex;
+    margin-left: 150px;
+}
+.ppp{
+    display: flex;
+    margin: 30px;
+}
+.pra{
+    margin-left: 300px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#hh{
+    display: flex;
+    margin: 50px;
+}
+#jk{
+    margin: 50px;
+}
+#se{
+    background-color: rgba(219, 205, 205, 0.455);
+    color: rgb(81, 255, 0);
+}
+#pe{
+    background-color: rgb(244, 170, 11);
+    color: black;
+margin-top: 30px;
+}
+#z{
+    background-color: black;
+}
+.kkk{
+    border: 2px solid chocolate;
+    border-top-left-radius:20% ;
+    border-top-right-radius:20% ;
+    border-bottom-left-radius:20% ;
+    border-bottom-right-radius:20% ;
+    color: white;
+    margin-left: 650px;
+    margin-right: 700px;
+    padding: 10px;
+    margin-top: -50px;
+    background-color: chocolate;
+}
